@@ -4,9 +4,9 @@ This repository contains the source code and assets for several websites I have 
 
 ## Websites
 The following websites are included in this repository:
-my-portfolio: A personal portfolio website showcasing my work, skills, and experience. #TODO
-my-blog: A blog website featuring my writing on various topics. #TODO
-e-commerce-store: An e-commerce website selling a variety of products. #TODO
+my-portfolio: A personal portfolio website showcasing my work, skills, and experience. //TODO
+my-blog: A blog website featuring my writing on various topics. //TODO
+e-commerce-store: An e-commerce website selling a variety of products. //TODO
 
 Each website directory contains its own README file with detailed information on how to run and modify the website.
 
