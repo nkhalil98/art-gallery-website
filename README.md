@@ -23,7 +23,7 @@ The websites are built using a variety of technologies, including:
 - MongoDB
 - Bootstrap
 
-##Getting Started
+## Getting Started
 To get started with this project, clone the repository to your local machine using the following command:
 
 git clone https://github.com/nkhalil98/web-dev.git
